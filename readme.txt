@@ -5,3 +5,4 @@ git tracks changes of files
 
 create a new branch is quick and simple
 for the next time
+add merge without fast-forward
